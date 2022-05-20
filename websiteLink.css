@@ -1,0 +1,27 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+    height: 500px;
+    padding: 20px;
+    box-shadow: 20px;
+    border-radius: 5px;
+    background-color: gray;
+  }
+
+.body-color {
+    background-color: darkblue;
+}
+
+.img-container {
+    width: 25%;
+    height: 450px;
+    padding: auto;
+    box-shadow: 20px;
+    border-radius: 5px;
+}
+
+.col {
+    width: 100%;
+    margin: 0 auto;
+  }
